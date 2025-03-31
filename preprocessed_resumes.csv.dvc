@@ -1,0 +1,5 @@
+outs:
+- md5: 3efdcb0ba3990eeaf62d2fc7ba165eac
+  size: 82808778
+  hash: md5
+  path: preprocessed_resumes.csv
